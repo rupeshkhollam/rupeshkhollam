@@ -1,4 +1,4 @@
-[![MasterHead](https://katalon.com/hs-fs/hubfs/Imported_Blog_Media/Execute-Test-Automation.png?width=1500&height=678&name=Execute-Test-Automation.png)]
+![MasterHead](https://katalon.com/hs-fs/hubfs/Imported_Blog_Media/Execute-Test-Automation.png?width=1500&height=678&name=Execute-Test-Automation.png)
 <h1 align="center">Hi 👋, I'm Rupesh</h1>
 <h3 align="center">A passionate Automation Tester / developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.adventsys.in/atplnew/sites/default/files/inline-images/test-automation-page_0.png"
